@@ -1,0 +1,57 @@
+body{
+  height:100%;
+  transition: background-color 0.5s ease;
+}
+.QuoteWindow {
+  position:absolute;
+  margin:auto;
+  top:25%;
+  left:10%;
+  right:10%;
+  text-align: center;
+  border-radius: 50px;
+  padding: 100px;
+  background-color: white;
+}
+#new-quote{
+  position: absolute;
+  right:10%;
+  border-radius: 15px;
+}
+#tweet-quote,#tweetquote{
+  position: absolute;
+  left:10%;
+  border-radius: 15px;
+}
+#author{
+  position: relative;
+  font-size:20px;
+  right:-40%;
+  
+}
+.inthalt,#title{
+  font-family: 'Nerko One', cursive;
+}
+#text{
+  font-size: 46px;
+}
+.Title{
+  text-align: center;
+  margin-top: 100px;
+}
+#title{
+  color: white;
+  font-size: 70px;
+}
+Button:hover{
+  opacity:0.9;
+}
+img{
+  padding:0px;
+  margin:0px;
+  height:30px;
+}
+.Designed{
+  text-align: center;
+  color: white;
+}
