@@ -1,5 +1,6 @@
 # Single-Quote-Generator
 simple ReactJS app that returns different Tech quotes with author's name.<br><br>
+To access source code file: <em>src->App.js</em><br>
 logic:
 <ol>
   <li>'new quote' button is pressed</li>
